@@ -1,6 +1,6 @@
 {
-    "name": "stefnats/locale-validator",
-    "description": "Validates a locale string.",
+    "name": "stefnats/laravel-validation-locale",
+    "description": "Laravel validator for locale string.",
     "type": "library",
     "keywords": [ "laravel", "validation", "locale", "validator" ],
     "license": "GPL",
