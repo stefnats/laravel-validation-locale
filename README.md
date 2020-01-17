@@ -13,8 +13,13 @@ Just install using composer with:
 In your requests you can use:
 
 ```php
+
+use Stefnats\Locale\Locale;
+
+//
+
 return [
-    'my_locale_input' => 'locale',
+    'my_locale_input' => [new Locale()],
 ];
 ```
 
