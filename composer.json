@@ -3,7 +3,7 @@
     "description": "Laravel validator for locale string.",
     "type": "library",
     "keywords": [ "laravel", "validation", "locale", "validator" ],
-    "license": "GPL",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Stefan Neuhaus",
